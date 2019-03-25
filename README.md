@@ -36,3 +36,7 @@ Anaconda的安装和入门教程:
 **Ted SRT(稿件)**
 
 > * https://ted2srt.org/
+
+**Anaconda详细安装及使用教程**
+
+> * https://blog.csdn.net/ITLearnHall/article/details/81708148
