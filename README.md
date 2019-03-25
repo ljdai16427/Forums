@@ -40,3 +40,7 @@ Anaconda的安装和入门教程:
 **Anaconda详细安装及使用教程**
 
 > * https://blog.csdn.net/ITLearnHall/article/details/81708148
+
+**CTOLib码库**
+
+> * https://www.ctolib.com/apachecn-pyda-2e-zh.html
