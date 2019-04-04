@@ -44,3 +44,7 @@ Anaconda的安装和入门教程:
 **CTOLib码库**
 
 > * https://www.ctolib.com/apachecn-pyda-2e-zh.html
+
+**Google Chrome下载地址**
+
+> *https://tools.shuax.com/chrome/#/
