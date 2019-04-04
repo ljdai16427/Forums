@@ -47,4 +47,4 @@ Anaconda的安装和入门教程:
 
 **Google Chrome下载地址**
 
-> *https://tools.shuax.com/chrome/#/
+> * https://tools.shuax.com/chrome/#/
