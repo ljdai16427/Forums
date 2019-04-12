@@ -48,3 +48,7 @@ Anaconda的安装和入门教程:
 **Google Chrome下载地址**
 
 > * https://tools.shuax.com/chrome/#/
+
+**Django BOOK**
+
+> * http://djangobook.py3k.cn/2.0/
