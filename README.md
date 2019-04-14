@@ -52,3 +52,7 @@ Anaconda的安装和入门教程:
 **Django BOOK**
 
 > * http://djangobook.py3k.cn/2.0/
+
+** DMOZ **
+
+> * http://dmoz-odp.org/
