@@ -56,4 +56,7 @@ Anaconda的安装和入门教程:
 **DMOZ**
 
 一个著名的开放式分类目录，里面所有内容都是来自于世界各自的志愿者共同维护和建立
-> * http://dmoz-odp.org/
+> * http://dmoz-odp.org/anser
+
+**The C Programming Language for solutions**
+> * http://www.learntosolveit.com/cprogramming/
