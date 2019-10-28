@@ -63,3 +63,6 @@ Anaconda的安装和入门教程:
 
 **Java编程书籍收集分享**
 > * https://github.com/RongleXie
+
+**动手学深度学习视频**
+> * https://github.com/d2l-ai/d2l-zh
